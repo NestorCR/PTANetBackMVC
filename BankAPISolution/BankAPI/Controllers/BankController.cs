@@ -19,7 +19,7 @@ namespace BankAPI.Controllers
         {
             try
             {
-                var result = await _bankService.GetBanksAsync();
+                var result = await _bankService.GetBanksFromExternalAPI();
                 return Ok(result);
             }
             catch (Exception ex)
