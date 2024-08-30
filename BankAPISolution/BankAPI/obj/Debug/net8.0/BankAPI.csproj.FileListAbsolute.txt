@@ -136,3 +136,10 @@ C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAP
 C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\xunit.core.dll
+C:\Users\nesto\source\repos\PruebaAlicuende\PTANetBackMVC\BankAPISolution\BankAPI\bin\Debug\net8.0\xunit.execution.dotnet.dll

@@ -25,6 +25,12 @@
             _logger = logger;
         }
 
+        public BankService(HttpClient httpClient, BankContext context)
+        {
+            _httpClient = httpClient;
+            _context = context;
+        }
+
         //Get Banks info from External API
         public async Task<string> GetBanksFromExternalAPI()
         {
