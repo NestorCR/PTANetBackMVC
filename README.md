@@ -1,5 +1,17 @@
 # Prueba Técnica para candidatos
 
+# Comentarios de Néstor Campillo sobre la prueba
+En primer lugar queria coentar que he tenido que sntalarme en mi máquina tanto VS, SQL, Git o Docker. No tenia mi PC configurado el desarrollo, nada mas que como simple PC doméstico. 
+Esto me llevo varias horas para poder tenerlo listo. La aplicación no funcionará por el acceso a la BD, en mi máquina local no me ha dado tiempo a configrar el servidor DOcker para que funcione sin certificado
+Tampoco he tenido las horas para confirurar mi firewall o la red, asique al final he dejado la funcionalidad básica de Docker. Tampoco creo que para una entrevista tenga que hacerlo todo real, con el odelo bastaría. 
+Finalmente he creado una solución con un proyecto  principal para la API, con un servicio que consume de la API externa, "guarda" en base de datos la información de los bancos en este caso  y los devuelve. 
+Le añadí las funciones basicas CRUD dado que para una app de prueba no hace falta irse a algo más complejo. Al igual que con el cifrado de contraseñas. 
+La estructura de carpetas es básica, seprando las distintas capas que tendriamos. Logicamente en una versión real el acceso a base de datos quedaria separado en lectura y escritura, la capa de apliación o de logica tendrían que pasar por una capa de framewor para llegar a la base de datos etc..
+A su vez le añadí un proyecto de test muy simple (generado por IA) porque no tenía mucho mas tiempo
+El reposotorio lo he subido al gitlab: https://github.com/NestorCR/PTANetBackMVC si tienen algún problema conctactenme e intentamos solucionarlo
+Muchas gracias, Néstor
+
+
 ## Descripción
 
 Este repositorio contiene una prueba técnica para candidatos que deseen unirse a nuestro equipo de desarrollo backend y frontend. El objetivo de la prueba es evaluar las habilidades de los candidatos en el desarrollo de aplicaciones utilizando tecnologías como .NET, C#, SQL Server, MVC...
